@@ -5,3 +5,5 @@
 * [antd修改默认样式的方法](https://github.com/xinglee23/myBlog/issues/4)
 * [编写React组件的最佳实践](https://github.com/xinglee23/myBlog/issues/5)
 * [antd Table使用记录](https://github.com/xinglee23/myBlog/issues/6)
+## 设计模式
+## 常见的算法
