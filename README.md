@@ -6,4 +6,5 @@
 * [antd修改默认样式的方法](https://github.com/xinglee23/myBlog/issues/4)
 * [antd Table使用记录](https://github.com/xinglee23/myBlog/issues/6)
 ## 设计模式
+* [代理模式](https://github.com/xinglee23/myBlog/issues/7)
 ## 常见的算法
