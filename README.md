@@ -8,4 +8,5 @@
 * [javascript函数防抖与节流](https://github.com/xinglee23/myBlog/issues/8)
 ### 设计模式
 * [代理模式](https://github.com/xinglee23/myBlog/issues/7)
+* [发布-订阅模式](https://github.com/xinglee23/myBlog/issues/7)
 ### 常见的算法
