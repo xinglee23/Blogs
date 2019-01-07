@@ -9,4 +9,5 @@
 ### 设计模式
 * [代理模式](https://github.com/xinglee23/myBlog/issues/7)
 * [发布-订阅模式](https://github.com/xinglee23/myBlog/issues/7)
+* [命令模式](https://github.com/xinglee23/Notes/issues/9)
 ### 常见的算法
