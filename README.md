@@ -5,7 +5,7 @@
 * [编写React组件的最佳实践](https://github.com/xinglee23/myBlog/issues/5)
 * [antd修改默认样式的方法](https://github.com/xinglee23/myBlog/issues/4)
 * [antd Table使用记录](https://github.com/xinglee23/myBlog/issues/6)
-* [javascript函数防抖与节流](https://github.com/xinglee23/myBlog/issues/8)
+* [javascript防抖与节流](https://github.com/xinglee23/myBlog/issues/8)
 ### 设计模式
 * [代理模式](https://github.com/xinglee23/myBlog/issues/7)
 * [命令模式](https://github.com/xinglee23/Notes/issues/9)
