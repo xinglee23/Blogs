@@ -10,7 +10,7 @@
 6. [antd Table使用记录](https://github.com/xinglee23/myBlog/issues/6)
 7. [javascript防抖与节流](https://github.com/xinglee23/myBlog/issues/8)
 
-### 设计模式
+## 设计模式
 1. [代理模式](https://github.com/xinglee23/myBlog/issues/7)
 2. [命令模式](https://github.com/xinglee23/Notes/issues/9)
 
