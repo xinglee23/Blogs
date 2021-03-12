@@ -10,6 +10,10 @@
 6. [antd Table使用记录](https://github.com/xinglee23/myBlog/issues/6)
 7. [javascript防抖与节流](https://github.com/xinglee23/myBlog/issues/8)
 
+## 前端工程化
+1. [webpack原理](https://jelly.jd.com/article/5f0de6dad5205e015b87c128)
+
+
 ## 设计模式
 1. [代理模式](https://github.com/xinglee23/myBlog/issues/7)
 2. [命令模式](https://github.com/xinglee23/Notes/issues/9)
