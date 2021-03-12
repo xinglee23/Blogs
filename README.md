@@ -12,6 +12,7 @@
 
 ## 前端工程化
 1. [webpack原理](https://jelly.jd.com/article/5f0de6dad5205e015b87c128)
+2. [初探vite原理及分析](https://jelly.jd.com/article/5f6c5650cd232101562cb51e)
 
 
 ## 设计模式
