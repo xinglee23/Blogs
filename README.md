@@ -19,3 +19,5 @@
 1. [代理模式](https://github.com/xinglee23/myBlog/issues/7)
 2. [命令模式](https://github.com/xinglee23/Notes/issues/9)
 
+## 其他
+1. [Mac OS下配置多个GitHub账号](https://github.com/xinglee23/Blogs/issues/12)
