@@ -10,6 +10,10 @@
 6. [antd Table使用记录](https://github.com/xinglee23/myBlog/issues/6)
 7. [javascript防抖与节流](https://github.com/xinglee23/myBlog/issues/8)
 
+## REACT
+1. [Build your own React](https://pomb.us/build-your-own-react/)
+2. [React技术揭秘](https://react.iamkasong.com/)
+
 ## 前端工程化
 1. [webpack原理](https://jelly.jd.com/article/5f0de6dad5205e015b87c128)
 2. [初探vite原理及分析](https://jelly.jd.com/article/5f6c5650cd232101562cb51e)
