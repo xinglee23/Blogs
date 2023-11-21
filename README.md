@@ -9,6 +9,7 @@
 5. [antd修改默认样式的方法](https://github.com/xinglee23/myBlog/issues/4)
 6. [antd Table使用记录](https://github.com/xinglee23/myBlog/issues/6)
 7. [javascript防抖与节流](https://github.com/xinglee23/myBlog/issues/8)
+8. [CSS 实现梯形 Tag，中间添加文字自适应](https://github.com/xinglee23/Blogs/issues/14)
 
 ## REACT
 1. [Build your own React](https://pomb.us/build-your-own-react/)
