@@ -25,4 +25,5 @@
 2. [命令模式](https://github.com/xinglee23/Notes/issues/9)
 
 ## 其他
-1. [Mac OS下配置多个GitHub账号](https://github.com/xinglee23/Blogs/issues/12) 
+1. [Mac OS下配置多个GitHub账号](https://github.com/xinglee23/Blogs/issues/12)
+2. [聊天软件也能量身定制？探索我们的专属IM之旅](https://github.com/xinglee23/Blogs/issues/15)
