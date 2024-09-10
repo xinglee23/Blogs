@@ -27,3 +27,4 @@
 ## 其他
 1. [Mac OS下配置多个GitHub账号](https://github.com/xinglee23/Blogs/issues/12)
 2. [聊天软件也能量身定制？探索我们的专属IM之旅](https://github.com/xinglee23/Blogs/issues/15)
+3. [uniapp vue 3 升级之旅](https://github.com/xinglee23/Blogs/issues/16)
